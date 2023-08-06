@@ -1,4 +1,4 @@
-package Exception.Homework.H1;
+package Exception.Homework.H2;
 
 import java.util.Scanner;
 
